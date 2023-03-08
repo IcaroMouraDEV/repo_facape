@@ -1,5 +1,5 @@
 def is_fine() -> None:  # exibir na tela se o carro foi multado, se sim, quanto
-    speed = input('Qual a velocidade do carro')
+    speed = int(input('Qual a velocidade do carro'))
 
     if speed > 80:
         print(
