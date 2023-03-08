@@ -1,4 +1,4 @@
-def is_a_greater_than_b() -> None:
+def is_a_greater_than_b() -> None:  # exibir na tela se o numero a é >, < ou = b
     num  = int(input('digite o primeiro numero: '))
     num2  = int(input('digite o segundo numero: '))
 
