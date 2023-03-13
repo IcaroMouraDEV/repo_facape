@@ -1,4 +1,4 @@
-def calculator():
+def calculator():  # Calculadora
     print(f'''
 Escolha qual operação vai querer das seguintes opções:
     soma
